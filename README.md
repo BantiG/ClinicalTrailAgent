@@ -1,6 +1,6 @@
 #  Clinical Trial Matching Agent (Alzheimer’s Edition)
 
-This AI-powered Streamlit app matches unstructured patient EHR notes or genetic data to relevant Alzheimer’s clinical trials using semantic search and GPT-4-based reasoning.
+This AI-powered Streamlit agent (Agentic AI) matches unstructured patient EHR notes or genetic data to relevant Alzheimer’s clinical trials using semantic search and GPT-4-based reasoning.
 
 ##  What It Does
 
